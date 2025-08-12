@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👯 I'm working for [Mantu](https://www.mantu.com/) company.
+👯 I'm working for a small company.
 
-🌱 I’m currently learning about C# and .NET platform
+🌱 I'm actively studying C# and the .NET platform with the goal of gaining a thorough, in-depth understanding of their inner workings.
