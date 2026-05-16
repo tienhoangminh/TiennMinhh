@@ -17,6 +17,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👯 I'm working for a small company.
 
-🌱 I'm actively studying C# and the .NET platform with the goal of gaining a thorough, in-depth understanding of their inner workings.
+🌱 Building with .NET. Learning how things actually work.
